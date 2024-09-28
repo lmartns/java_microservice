@@ -1,6 +1,5 @@
 package com.project.microservice_java.models.entity;
 
-
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotNull;
 import lombok.Data;
